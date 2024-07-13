@@ -1,0 +1,340 @@
+.items{
+    display: flex;
+    gap: 200px;
+    font-size: 20px;
+    list-style: none;
+    font-style: normal;
+    justify-content: center;
+    padding: 12px;
+    border: solid;
+    background-color:darkblue;
+    border-style: hidden;
+    color: white;
+   
+    
+}
+.knowledge{
+    display: flex;
+}
+.skills{
+    font-size: 50px;
+    margin-top: 15%;
+    font-style: bold;
+    color: black;
+    
+    
+}
+.power{
+    width: 1000px;
+    height: 700px;
+    margin-left: 4%;
+    margin-bottom: 9%;
+}
+.Text{
+    margin-left: 5%;
+    margin-top: 10%;
+}
+.text{
+    border: solid;
+    padding: 20px;
+    border-radius: 20px;
+    width: 29%;
+    margin-left: 15%;
+    background-color:darkblue;
+    border-style: hidden;
+    font-size: 25px;
+    margin-top: 12%;
+    color: aliceblue;
+}
+
+.logo{
+    width: 40px;
+    height: auto;
+    color: white;
+    margin-right: -12px;   
+}
+@media screen and (min-width:280px) and (max-width:480px){
+    .items{
+        display: flex;
+        gap: 200px;
+        font-size: 20px;
+        list-style: none;
+        font-style: normal;
+        justify-content: center;
+        padding: 12px;
+        border: solid;
+        background-color:darkblue;
+        border-style: hidden;
+        color: white;
+       
+        
+    }
+    .knowledge{
+        display: flex;
+    }
+    .skills{
+        font-size: 50px;
+        margin-top: 15%;
+        font-style: bold;
+        color: black;
+        
+        
+    }
+    .power{
+        width: 1000px;
+        height: 700px;
+        margin-left: 4%;
+        margin-bottom: 9%;
+    }
+    .Text{
+        margin-left: 5%;
+        margin-top: 10%;
+    }
+    .text{
+        border: solid;
+        padding: 20px;
+        border-radius: 20px;
+        width: 29%;
+        margin-left: 15%;
+        background-color:darkblue;
+        border-style: hidden;
+        font-size: 25px;
+        margin-top: 12%;
+        color: aliceblue;
+    }
+    
+    .logo{
+        width: 40px;
+        height: auto;
+        color: white;
+        margin-right: -12px;   
+    }  
+}
+@media screen and (min-width:481px) and (max-width:680px){
+    .items{
+        display: flex;
+        gap: 200px;
+        font-size: 20px;
+        list-style: none;
+        font-style: normal;
+        justify-content: center;
+        padding: 12px;
+        border: solid;
+        background-color:darkblue;
+        border-style: hidden;
+        color: white;
+       
+        
+    }
+    .knowledge{
+        display: flex;
+    }
+    .skills{
+        font-size: 50px;
+        margin-top: 15%;
+        font-style: bold;
+        color: black;
+        
+        
+    }
+    .power{
+        width: 1000px;
+        height: 700px;
+        margin-left: 4%;
+        margin-bottom: 9%;
+    }
+    .Text{
+        margin-left: 5%;
+        margin-top: 10%;
+    }
+    .text{
+        border: solid;
+        padding: 20px;
+        border-radius: 20px;
+        width: 29%;
+        margin-left: 15%;
+        background-color:darkblue;
+        border-style: hidden;
+        font-size: 25px;
+        margin-top: 12%;
+        color: aliceblue;
+    }
+    
+    .logo{
+        width: 40px;
+        height: auto;
+        color: white;
+        margin-right: -12px;   
+    }
+}
+@media screen and (min-width:680px) and (max-width:880px){
+    .items{
+        display: flex;
+        gap: 200px;
+        font-size: 20px;
+        list-style: none;
+        font-style: normal;
+        justify-content: center;
+        padding: 12px;
+        border: solid;
+        background-color:darkblue;
+        border-style: hidden;
+        color: white;
+       
+        
+    }
+    .knowledge{
+        display: flex;
+    }
+    .skills{
+        font-size: 50px;
+        margin-top: 15%;
+        font-style: bold;
+        color: black;
+        
+        
+    }
+    .power{
+        width: 1000px;
+        height: 700px;
+        margin-left: 4%;
+        margin-bottom: 9%;
+    }
+    .Text{
+        margin-left: 5%;
+        margin-top: 10%;
+    }
+    .text{
+        border: solid;
+        padding: 20px;
+        border-radius: 20px;
+        width: 29%;
+        margin-left: 15%;
+        background-color:darkblue;
+        border-style: hidden;
+        font-size: 25px;
+        margin-top: 12%;
+        color: aliceblue;
+    }
+    
+    .logo{
+        width: 40px;
+        height: auto;
+        color: white;
+        margin-right: -12px;   
+    }  
+}
+@media screen and (min-width:881px) and (max-width:1080px){
+    .items{
+        display: flex;
+        gap: 200px;
+        font-size: 20px;
+        list-style: none;
+        font-style: normal;
+        justify-content: center;
+        padding: 12px;
+        border: solid;
+        background-color:darkblue;
+        border-style: hidden;
+        color: white;
+       
+        
+    }
+    .knowledge{
+        display: flex;
+    }
+    .skills{
+        font-size: 50px;
+        margin-top: 15%;
+        font-style: bold;
+        color: black;
+        
+        
+    }
+    .power{
+        width: 1000px;
+        height: 700px;
+        margin-left: 4%;
+        margin-bottom: 9%;
+    }
+    .Text{
+        margin-left: 5%;
+        margin-top: 10%;
+    }
+    .text{
+        border: solid;
+        padding: 20px;
+        border-radius: 20px;
+        width: 29%;
+        margin-left: 15%;
+        background-color:darkblue;
+        border-style: hidden;
+        font-size: 25px;
+        margin-top: 12%;
+        color: aliceblue;
+    }
+    
+    .logo{
+        width: 40px;
+        height: auto;
+        color: white;
+        margin-right: -12px;   
+    }  
+}
+@media screen and (min-width:1280px) and (max-width:1800px){
+    .items{
+        display: flex;
+        gap: 200px;
+        font-size: 20px;
+        list-style: none;
+        font-style: normal;
+        justify-content: center;
+        padding: 12px;
+        border: solid;
+        background-color:darkblue;
+        border-style: hidden;
+        color: white;
+       
+        
+    }
+    .knowledge{
+        display: flex;
+    }
+    .skills{
+        font-size: 50px;
+        margin-top: 15%;
+        font-style: bold;
+        color: black;
+        
+        
+    }
+    .power{
+        width: 1000px;
+        height: 700px;
+        margin-left: 4%;
+        margin-bottom: 9%;
+    }
+    .Text{
+        margin-left: 5%;
+        margin-top: 10%;
+    }
+    .text{
+        border: solid;
+        padding: 20px;
+        border-radius: 20px;
+        width: 29%;
+        margin-left: 15%;
+        background-color:darkblue;
+        border-style: hidden;
+        font-size: 25px;
+        margin-top: 12%;
+        color: aliceblue;
+    }
+    
+    .logo{
+        width: 40px;
+        height: auto;
+        color: white;
+        margin-right: -12px;   
+    }    
+}
