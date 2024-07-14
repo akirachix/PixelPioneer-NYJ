@@ -1,0 +1,383 @@
+
+#image{
+    width: 100%;
+    height: auto;
+}
+.pagetext{
+    margin: 10%;
+    margin-top: 3%;
+    display: flex;
+    gap: 15%;
+}
+.text span{
+    color:navy;
+}
+.text{
+    font-size: 30px;
+    text-align: center;
+}
+iframe{
+    width: 900px;
+    height: 400px;
+}
+.text2{
+    text-align: center;
+    font-size: 25px;
+}
+.intro{
+    display: flex;
+    margin-top: 8%;
+    gap: 10%;
+    margin-left: 6%;
+}
+#embark{
+    margin-top: 3%;
+}
+.wifi{
+    width: 40%;
+    height: 20%;
+}
+.video{
+    font-size: xx-large;
+    text-align: center;
+}
+.page{
+    margin-top: 3%;
+}
+@media screen and (min-width:280px) and (max-width:480px){
+    #image{
+        width: 100%;
+        height: auto;
+    }
+    .pagetext{
+        margin: 10%;
+        margin-top: 3%;
+        display: grid;
+        gap: 15%;
+    }
+    .text span{
+        color:navy;
+    }
+    .text{
+        font-size: 20px;
+        text-align: center;
+    }
+    iframe{
+        width: 300px;
+        height: 200px;
+    }
+    .text2{
+        text-align: center;
+        font-size: 18px;
+    }
+    .intro{
+        display: flex;
+        margin-top: 8%;
+        gap: 10%;
+        margin-left: 6%;
+    }
+    #embark{
+        margin-top: 3%;
+    }
+    .wifi{
+        width: 40%;
+        height: 20%;
+    }
+    .video{
+        font-size: x-large;
+        text-align: center;
+    }
+    .page{
+        margin-top: 3%;
+    } 
+}
+@media screen and (min-width:565px) and (max-width:768px){
+    #image{
+        width: 100%;
+        height: auto;
+    }
+    .pagetext{
+        margin: 10%;
+        margin-top: 3%;
+        display: flex;
+        gap: 15%;
+    }
+    .text span{
+        color:navy;
+    }
+    .text{
+        font-size: 30px;
+        text-align: center;
+    }
+    iframe{
+        width: 900px;
+        height: 400px;
+    }
+    .text2{
+        text-align: center;
+        font-size: 25px;
+    }
+    .intro{
+        display: flex;
+        margin-top: 8%;
+        gap: 10%;
+        margin-left: 6%;
+    }
+    #embark{
+        margin-top: 3%;
+    }
+    .wifi{
+        width: 40%;
+        height: 20%;
+    }
+    .video{
+        font-size: xx-large;
+        text-align: center;
+    }
+    .page{
+        margin-top: 3%;
+    } 
+}
+@media screen and (min-width:769px) and (max-width:1020px){
+    #image{
+        width: 100%;
+        height: auto;
+    }
+    .pagetext{
+        margin: 10%;
+        margin-top: 3%;
+        display: flex;
+        gap: 15%;
+    }
+    .text span{
+        color:navy;
+    }
+    .text{
+        font-size: 30px;
+        text-align: center;
+    }
+    iframe{
+        width: 900px;
+        height: 400px;
+    }
+    .text2{
+        text-align: center;
+        font-size: 25px;
+    }
+    .intro{
+        display: flex;
+        margin-top: 8%;
+        gap: 10%;
+        margin-left: 6%;
+    }
+    #embark{
+        margin-top: 3%;
+    }
+    .wifi{
+        width: 40%;
+        height: 20%;
+    }
+    .video{
+        font-size: xx-large;
+        text-align: center;
+    }
+    .page{
+        margin-top: 3%;
+    }
+}
+@media screen and (min-width:1030px) and (max-width:1220px){
+    #image{
+        width: 100%;
+        height: auto;
+    }
+    .pagetext{
+        margin: 10%;
+        margin-top: 3%;
+        display: flex;
+        gap: 15%;
+    }
+    .text span{
+        color:navy;
+    }
+    .text{
+        font-size: 30px;
+        text-align: center;
+    }
+    iframe{
+        width: 900px;
+        height: 400px;
+    }
+    .text2{
+        text-align: center;
+        font-size: 25px;
+    }
+    .intro{
+        display: flex;
+        margin-top: 8%;
+        gap: 10%;
+        margin-left: 6%;
+    }
+    #embark{
+        margin-top: 3%;
+    }
+    .wifi{
+        width: 40%;
+        height: 20%;
+    }
+    .video{
+        font-size: x-large;
+        text-align: center;
+    }
+    .page{
+        margin-top: 3%;
+    }
+}
+@media screen and (min-width:1024px) and (max-width:1029px){
+    #image{
+        width: 100%;
+        height: auto;
+    }
+    .pagetext{
+        margin: 10%;
+        margin-top: 3%;
+        display: flex;
+        gap: 15%;
+    }
+    .text span{
+        color:navy;
+    }
+    .text{
+        font-size: 30px;
+        text-align: center;
+    }
+    iframe{
+        width: 900px;
+        height: 400px;
+    }
+    .text2{
+        text-align: center;
+        font-size: 25px;
+    }
+    .intro{
+        display: flex;
+        margin-top: 8%;
+        gap: 10%;
+        margin-left: 6%;
+    }
+    #embark{
+        margin-top: 3%;
+    }
+    .wifi{
+        width: 40%;
+        height: 20%;
+    }
+    .video{
+        font-size: xx-large;
+        text-align: center;
+    }
+    .page{
+        margin-top: 3%;
+    }
+}
+@media screen and (min-width:1221px) and (max-width:1280px){
+    #image{
+        width: 100%;
+        height: auto;
+    }
+    .pagetext{
+        margin: 10%;
+        margin-top: 3%;
+        display: flex;
+        gap: 15%;
+    }
+    .text span{
+        color:navy;
+    }
+    .text{
+        font-size: 30px;
+        text-align: center;
+    }
+    iframe{
+        width: 900px;
+        height: 400px;
+    }
+    .text2{
+        text-align: center;
+        font-size: 25px;
+    }
+    .intro{
+        display: flex;
+        margin-top: 8%;
+        gap: 10%;
+        margin-left: 6%;
+    }
+    #embark{
+        margin-top: 3%;
+    }
+    .wifi{
+        width: 40%;
+        height: 20%;
+    }
+    .video{
+        font-size: xx-large;
+        text-align: center;
+    }
+    .page{
+        margin-top: 3%;
+    }
+    
+}
+@media screen and (min-width:540px) and (max-width:720px){
+    #image{
+        width: 100%;
+        height: auto;
+    }
+    .pagetext{
+        margin: 10%;
+        margin-top: 3%;
+        display: flex;
+        gap: 15%;
+    }
+    .text span{
+        color:navy;
+    }
+    .text{
+        font-size: 30px;
+        text-align: center;
+    }
+    iframe{
+        width: 900px;
+        height: 400px;
+    }
+    .text2{
+        text-align: center;
+        font-size: 25px;
+    }
+    .intro{
+        display: flex;
+        margin-top: 8%;
+        gap: 10%;
+        margin-left: 6%;
+    }
+    #embark{
+        margin-top: 3%;
+    }
+    .wifi{
+        width: 40%;
+        height: 20%;
+    }
+    .video{
+        font-size: xx-large;
+        text-align: center;
+    }
+    .page{
+        margin-top: 3%;
+    }
+}
+
+
+
+
+
+
+
