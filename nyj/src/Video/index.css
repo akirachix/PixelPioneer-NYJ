@@ -44,7 +44,7 @@ iframe{
 .page{
     margin-top: 3%;
 }
-@media screen and (min-width:280px) and (max-width:480px){
+@media screen and (min-width: 320px) and (max-width: 390px) {
     #image{
         width: 100%;
         height: auto;
@@ -61,155 +61,19 @@ iframe{
     .text{
         font-size: 20px;
         text-align: center;
+        padding-left: 4%;
+        padding-right: 4%;
     }
     iframe{
         width: 300px;
         height: 200px;
     }
     .text2{
-        text-align: center;
-        font-size: 18px;
-    }
-    .intro{
-        display: flex;
-        margin-top: 8%;
-        gap: 10%;
-        margin-left: 6%;
-    }
-    #embark{
-        margin-top: 3%;
-    }
-    .wifi{
-        width: 40%;
-        height: 20%;
-    }
-    .video{
-        font-size: x-large;
-        text-align: center;
-    }
-    .page{
-        margin-top: 3%;
-    } 
-}
-@media screen and (min-width:565px) and (max-width:768px){
-    #image{
-        width: 100%;
-        height: auto;
-    }
-    .pagetext{
-        margin: 10%;
-        margin-top: 3%;
-        display: flex;
-        gap: 15%;
-    }
-    .text span{
-        color:navy;
-    }
-    .text{
-        font-size: 30px;
-        text-align: center;
-    }
-    iframe{
-        width: 900px;
-        height: 400px;
-    }
-    .text2{
-        text-align: center;
-        font-size: 25px;
-    }
-    .intro{
-        display: flex;
-        margin-top: 8%;
-        gap: 10%;
-        margin-left: 6%;
-    }
-    #embark{
-        margin-top: 3%;
-    }
-    .wifi{
-        width: 40%;
-        height: 20%;
-    }
-    .video{
-        font-size: xx-large;
-        text-align: center;
-    }
-    .page{
-        margin-top: 3%;
-    } 
-}
-@media screen and (min-width:769px) and (max-width:1020px){
-    #image{
-        width: 100%;
-        height: auto;
-    }
-    .pagetext{
-        margin: 10%;
-        margin-top: 3%;
-        display: flex;
-        gap: 15%;
-    }
-    .text span{
-        color:navy;
-    }
-    .text{
-        font-size: 30px;
-        text-align: center;
-    }
-    iframe{
-        width: 900px;
-        height: 400px;
-    }
-    .text2{
-        text-align: center;
-        font-size: 25px;
-    }
-    .intro{
-        display: flex;
-        margin-top: 8%;
-        gap: 10%;
-        margin-left: 6%;
-    }
-    #embark{
-        margin-top: 3%;
-    }
-    .wifi{
-        width: 40%;
-        height: 20%;
-    }
-    .video{
-        font-size: xx-large;
-        text-align: center;
-    }
-    .page{
-        margin-top: 3%;
-    }
-}
-@media screen and (min-width:1030px) and (max-width:1220px){
-    #image{
-        width: 100%;
-        height: auto;
-    }
-    .pagetext{
-        margin: 10%;
-        margin-top: 3%;
-        display: flex;
-        gap: 15%;
-    }
-    .text span{
-        color:navy;
-    }
-    .text{
-        font-size: 30px;
-        text-align: center;
-    }
-    iframe{
-        width: 900px;
-        height: 400px;
-    }
-    .text2{
-        text-align: center;
-        font-size: 25px;
+        /* text-align: center; */
+        font-size: 17px;
+        text-align: justify;
+        padding-left: 4%;
+        padding-right: 4%;
     }
     .intro{
         display: flex;
@@ -232,7 +96,7 @@ iframe{
         margin-top: 3%;
     }
 }
-@media screen and (min-width:1024px) and (max-width:1029px){
+@media screen and (min-width: 391px) and (max-width: 399px) {
     #image{
         width: 100%;
         height: auto;
@@ -249,6 +113,8 @@ iframe{
     .text{
         font-size: 30px;
         text-align: center;
+        padding-left: 4%;
+        padding-right: 4%;
     }
     iframe{
         width: 900px;
@@ -257,6 +123,8 @@ iframe{
     .text2{
         text-align: center;
         font-size: 25px;
+        padding-left: 4%;
+        padding-right: 4%;
     }
     .intro{
         display: flex;
@@ -279,7 +147,7 @@ iframe{
         margin-top: 3%;
     }
 }
-@media screen and (min-width:1221px) and (max-width:1280px){
+@media screen and (min-width: 400px) and (max-width: 480px) {
     #image{
         width: 100%;
         height: auto;
@@ -287,23 +155,27 @@ iframe{
     .pagetext{
         margin: 10%;
         margin-top: 3%;
-        display: flex;
+        display: grid;
         gap: 15%;
     }
     .text span{
         color:navy;
     }
     .text{
-        font-size: 30px;
+        font-size: 20px;
         text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
     }
     iframe{
-        width: 900px;
-        height: 400px;
+        width: 330px;
+        height: 250px;
     }
     .text2{
         text-align: center;
-        font-size: 25px;
+        font-size: 19px;
+        padding-left: 3%;
+        padding-right: 2%;
     }
     .intro{
         display: flex;
@@ -319,62 +191,374 @@ iframe{
         height: 20%;
     }
     .video{
-        font-size: xx-large;
+        font-size: x-large;
         text-align: center;
     }
     .page{
         margin-top: 3%;
+    }
+}
+ @media screen and (min-width: 480px) and (max-width: 550px) {
+    #image{
+        width: 100%;
+        height: auto;
+    }
+    .pagetext{
+        margin: 10%;
+        margin-top: 3%;
+        display: grid;
+        gap: 15%;
+    }
+    .text span{
+        color:navy;
+    }
+    .text{
+        font-size: 23px;
+        text-align: center;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    iframe{
+        width: 440px;
+        height: 300px;
+    }
+    .text2{
+        text-align: center;
+        font-size: 20px;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .intro{
+        display: flex;
+        margin-top: 8%;
+        gap: 10%;
+        margin-left: 6%;
+    }
+    #embark{
+        margin-top: 3%;
+    }
+    .wifi{
+        width: 40%;
+        height: 20%;
+    }
+    .video{
+        font-size: 35px;
+        text-align: center;
+    }
+    .page{
+        margin-top: 3%;
+    }
+    }
+@media screen and (min-width:551px) and (max-width:770px) {
+        #image{
+            width: 100%;
+            height: auto;
+        }
+        .pagetext{
+            margin: 10%;
+            margin-top: 3%;
+            display: grid;
+            gap: 15%;
+        }
+        .text span{
+            color:navy;
+        }
+        .text{
+            font-size: 30px;
+            text-align: center;
+            padding-left: 4%;
+            padding-right: 4%;
+        }
+        iframe{
+            width: 630px;
+            height: 400px;
+        }
+        .text2{
+            text-align: center;
+            font-size: 25px;
+            padding-left: 5%;
+            padding-right: 3%;
+        }
+        .intro{
+            display: flex;
+            margin-top: 8%;
+            gap: 10%;
+            margin-left: 6%;
+        }
+        #embark{
+            margin-top: 3%;
+        }
+        .wifi{
+            width: 40%;
+            height: 20%;
+        }
+        .video{
+            font-size: xx-large;
+            text-align: center;
+        }
+        .page{
+            margin-top: 3%;
+        }
+    }
+@media screen and (min-width: 771px) and (max-width: 910px) {
+    #image{
+        width: 100%;
+        height: auto;
+    }
+    .pagetext{
+        margin: 10%;
+        margin-top: 3%;
+        display: grid;
+        gap: 15%;
+    }
+    .text span{
+        color:navy;
+    }
+    .text{
+        font-size: 30px;
+        text-align: center;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    iframe{
+        width: 650px;
+        height: 400px;
+    }
+    .text2{
+        text-align: center;
+        font-size: 25px;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    .intro{
+        display: flex;
+        margin-top: 8%;
+        gap: 10%;
+        margin-left: 6%;
+    }
+    #embark{
+        margin-top: 3%;
+    }
+    .wifi{
+        width: 40%;
+        height: 20%;
+    }
+    .video{
+        font-size: 40px;
+        text-align: center;
+    }
+    .page{
+        margin-top: 3%;
+    }
+    }
+@media screen and (min-width: 911px) and (max-width: 1000px) {
+    #image{
+        width: 100%;
+        height: auto;
+    }
+    .pagetext{
+        margin: 10%;
+        margin-top: 3%;
+        display: grid;
+        gap: 15%;
+    }
+    .text span{
+        color:navy;
+    }
+    .text{
+        font-size: 35px;
+        text-align: center;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    iframe{
+        width: 730px;
+        height: 400px;
+    }
+    .text2{
+        text-align: center;
+        font-size: 30px;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .intro{
+        display: flex;
+        margin-top: 8%;
+        gap: 10%;
+        margin-left: 6%;
+    }
+    #embark{
+        margin-top: 3%;
+    }
+    .wifi{
+        width: 40%;
+        height: 20%;
+    }
+    .video{
+        font-size: 50px;
+        text-align: center;
+    }
+    .page{
+        margin-top: 3%;
+    }
+    }
+@media screen and (min-width: 1000px) and (max-width:1050px){
+        #image{
+            width: 100%;
+            height: auto;
+        }
+        .pagetext{
+            margin: 10%;
+            margin-top: 3%;
+            display: flex;
+            gap: 15%;
+        }
+        .text span{
+            color:navy;
+        }
+        .text{
+            font-size: 30px;
+            text-align: center;
+            padding-left: 4%;
+            padding-right: 4%;
+        }
+        iframe{
+            width: 400px;
+            height: 320px;
+        }
+        .text2{
+            text-align: center;
+            font-size: 20px;
+            padding-left: 4%;
+            padding-right: 4%;
+        }
+        .intro{
+            display: flex;
+            margin-top: 8%;
+            gap: 10%;
+            margin-left: 6%;
+        }
+        #embark{
+            margin-top: 3%;
+        }
+        .wifi{
+            width: 40%;
+            height: 20%;
+        }
+        .video{
+            font-size: 30px;
+            text-align: center;
+        }
+        .page{
+            margin-top: 3%;
+        }
+    }
+ @media screen and (min-width: 1050px) and (max-width:1300px){
+        #image{
+            width: 100%;
+            height: auto;
+        }
+        .pagetext{
+            margin: 10%;
+            margin-top: 3%;
+            display: flex;
+            gap: 15%;
+        }
+        .text span{
+            color:navy;
+        }
+        .text{
+            font-size: 30px;
+            text-align: center;
+            padding-left: 4%;
+            padding-right: 4%;
+        }
+        iframe{
+            width: 900px;
+            height: 400px;
+        }
+        .text2{
+            text-align: center;
+            font-size: 25px;
+            padding-left: 4%;
+            padding-right: 4%;
+        }
+        .intro{
+            display: flex;
+            margin-top: 8%;
+            gap: 10%;
+            margin-left: 6%;
+        }
+        #embark{
+            margin-top: 3%;
+        }
+        .wifi{
+            width: 40%;
+            height: 20%;
+        }
+        .video{
+            font-size: xx-large;
+            text-align: center;
+        }
+        .page{
+            margin-top: 3%;
+        }
+    }
+    @media screen and (min-width: 280px) and (max-width: 319px) {
+        #image{
+            width: 100%;
+            height: auto;
+        }
+        .pagetext{
+            margin: 10%;
+            margin-top: 3%;
+            display: grid;
+            gap: 15%;
+        }
+        .text span{
+            color:navy;
+        }
+        .text{
+            font-size: 18px;
+            text-align: center;
+            padding-left: 4%;
+            padding-right: 4%;
+        }
+        iframe{
+            width: 230px;
+            height: 200px;
+        }
+        .text2{
+            text-align: center;
+            font-size: 15px;
+            padding-left: 4%;
+            padding-right: 3%;
+        }
+        .intro{
+            display: flex;
+            margin-top: 8%;
+            gap: 10%;
+            margin-left: 6%;
+        }
+        #embark{
+            margin-top: 3%;
+        }
+        .wifi{
+            width: 40%;
+            height: 20%;
+        }
+        .video{
+            font-size: x-large;
+            text-align: center;
+        }
+        .page{
+            margin-top: 3%;
+        }
     }
     
-}
-@media screen and (min-width:540px) and (max-width:720px){
-    #image{
-        width: 100%;
-        height: auto;
-    }
-    .pagetext{
-        margin: 10%;
-        margin-top: 3%;
-        display: flex;
-        gap: 15%;
-    }
-    .text span{
-        color:navy;
-    }
-    .text{
-        font-size: 30px;
-        text-align: center;
-    }
-    iframe{
-        width: 900px;
-        height: 400px;
-    }
-    .text2{
-        text-align: center;
-        font-size: 25px;
-    }
-    .intro{
-        display: flex;
-        margin-top: 8%;
-        gap: 10%;
-        margin-left: 6%;
-    }
-    #embark{
-        margin-top: 3%;
-    }
-    .wifi{
-        width: 40%;
-        height: 20%;
-    }
-    .video{
-        font-size: xx-large;
-        text-align: center;
-    }
-    .page{
-        margin-top: 3%;
-    }
-}
-
+    
+    
+    
 
 
 
